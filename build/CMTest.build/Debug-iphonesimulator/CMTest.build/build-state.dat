@@ -1,0 +1,267 @@
+TCMTest
+v7
+r0
+t317962592.779635
+cCheck dependencies
+cProcessInfoPlistFile /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/Info.plist CMTest-Info.plist
+cCompileXIB /Users/shuichi/Documents/08_blog/CMTest/MainWindow.xib
+cCompileXIB /Users/shuichi/Documents/08_blog/CMTest/CMTestViewController.xib
+cProcessPCH /var/folders/0o/0oBJns2KF3KicOVOZ1e6i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CMTest_Prefix-bnmdatlzufptxyemhabicrkimvim/CMTest_Prefix.pch.gch CMTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/main.o /Users/shuichi/Documents/08_blog/CMTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestAppDelegate.o /Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestViewController.o /Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest normal i386
+cGenerateDSYMFile /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app.dSYM /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest
+cTouch /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CEC65EA0000000000000110
+t1290561002
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004CC127EF000000000003F3E0
+t1287727087
+s259040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h
+c000000004CC127E900000000000001CB
+t1287727081
+s459
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/shuichi/Documents/08_blog/CMTest/CMTestViewController.xib
+c000000004D4381DD0000000000006D03
+t1296269789
+s27907
+
+N/Users/shuichi/Documents/08_blog/CMTest/CMTest_Prefix.pch
+c000000004D425F7B00000000000000B5
+t1296195451
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestAppDelegate.h
+c000000004D425F7B00000000000001D5
+t1296195451
+s469
+i<UIKit/UIKit.h>
+
+N/Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestAppDelegate.m
+c000000004D425F7B0000000000000A8C
+t1296195451
+s2700
+i"CMTestAppDelegate.h"
+i"CMTestViewController.h"
+
+N/Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestViewController.h
+c000000004D4276F300000000000001BB
+t1296201459
+s443
+i<UIKit/UIKit.h>
+i<CoreMotion/CoreMotion.h>
+
+N/Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestViewController.m
+c000000004D437F3800000000000005A1
+t1296269112
+s1441
+i"CMTestViewController.h"
+
+N/Users/shuichi/Documents/08_blog/CMTest/MainWindow.xib
+c000000004D425F7B0000000000004E1D
+t1296195451
+s19997
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTest.LinkFileList
+c000000004D43817D0000000000000188
+t1296269693
+s392
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestAppDelegate.o
+t1296269696
+s51192
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestViewController.o
+t1296269696
+s47852
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/main.o
+t1296269696
+s6304
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app
+t1296269792
+s238
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app.dSYM
+t1296269696
+s102
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest
+t1296269696
+s19496
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTestViewController.nib
+t1296269792
+s2149
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/Info.plist
+t1296269693
+s587
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/MainWindow.nib
+t1296269694
+s1121
+
+N/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/PkgInfo
+t1296269693
+s8
+
+N/Users/shuichi/Documents/08_blog/CMTest/main.m
+c000000004D425F7B0000000000000164
+t1296195451
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/0o/0oBJns2KF3KicOVOZ1e6i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CMTest_Prefix-bnmdatlzufptxyemhabicrkimvim/CMTest_Prefix.pch.gch
+t1296269695
+s15453392
+
+NCMTest-Info.plist
+c000000004D425F7B000000000000038D
+t1296195451
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317962592#317962592#0(0"0(0#1#0"8670350176#0"0#
+
+CCompileC build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestAppDelegate.o /Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317962496.065098
+e317962496.261525
+r1
+xCompileC
+xbuild/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestAppDelegate.o
+x/Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestAppDelegate.m317962496#317962496#0(0"0(0#0#67"/Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestAppDelegate.m8677030496#1939"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-generated-files.hmap -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-own-target-headers.hmap -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-all-target-headers.hmap -iquote /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-project-headers.hmap -F/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator -I/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/include -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/DerivedSources/i386 -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/DerivedSources -include /var/folders/0o/0oBJns2KF3KicOVOZ1e6i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CMTest_Prefix-bnmdatlzufptxyemhabicrkimvim/CMTest_Prefix.pch -c /Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestAppDelegate.m -o /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestAppDelegate.o0#
+
+CCompileC build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestViewController.o /Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317962496.065904
+e317962496.262041
+r1
+xCompileC
+xbuild/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestViewController.o
+x/Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestViewController.m317962496#317962496#0(0"0(0#0#70"/Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestViewController.m8670930656#1945"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-generated-files.hmap -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-own-target-headers.hmap -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-all-target-headers.hmap -iquote /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-project-headers.hmap -F/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator -I/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/include -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/DerivedSources/i386 -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/DerivedSources -include /var/folders/0o/0oBJns2KF3KicOVOZ1e6i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CMTest_Prefix-bnmdatlzufptxyemhabicrkimvim/CMTest_Prefix.pch -c /Users/shuichi/Documents/08_blog/CMTest/Classes/CMTestViewController.m -o /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTestViewController.o0#
+
+CCompileC build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/main.o /Users/shuichi/Documents/08_blog/CMTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317962496.064026
+e317962496.248037
+r1
+xCompileC
+xbuild/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/main.o
+x/Users/shuichi/Documents/08_blog/CMTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/shuichi/Documents/08_blog/CMTest/main.m317962496#317962496#0(0"0(0#0#46"/Users/shuichi/Documents/08_blog/CMTest/main.m8611429344#1905"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-generated-files.hmap -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-own-target-headers.hmap -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-all-target-headers.hmap -iquote /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-project-headers.hmap -F/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator -I/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/include -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/DerivedSources/i386 -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/DerivedSources -include /var/folders/0o/0oBJns2KF3KicOVOZ1e6i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CMTest_Prefix-bnmdatlzufptxyemhabicrkimvim/CMTest_Prefix.pch -c /Users/shuichi/Documents/08_blog/CMTest/main.m -o /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/shuichi/Documents/08_blog/CMTest/CMTestViewController.xib
+s317962592.403526
+e317962592.776595
+r1
+xCompileXIB
+x/Users/shuichi/Documents/08_blog/CMTest/CMTestViewController.xib
+lSLF07#2@35"CompileXIB CMTestViewController.xib317962592#317962592#0(0"0(0#0#64"/Users/shuichi/Documents/08_blog/CMTest/CMTestViewController.xib8606513344#592"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTestViewController.nib /Users/shuichi/Documents/08_blog/CMTest/CMTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/shuichi/Documents/08_blog/CMTest/MainWindow.xib
+s317962493.907482
+e317962494.362571
+r1
+xCompileXIB
+x/Users/shuichi/Documents/08_blog/CMTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317962493#317962494#0(0"0(0#0#54"/Users/shuichi/Documents/08_blog/CMTest/MainWindow.xib8672113664#572"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/MainWindow.nib /Users/shuichi/Documents/08_blog/CMTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app.dSYM /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest
+s317962496.400168
+e317962496.456312
+r1
+xGenerateDSYMFile
+x/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app.dSYM
+x/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/CMTest.app.dSYM build/Debug-iphonesimulator/CMTest.app/CMTest317962496#317962496#0(0"0(0#0#85"/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest8673110112#383"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest -o /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app.dSYM0#
+
+CLd /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest normal i386
+s317962496.262101
+e317962496.400050
+r1
+xLd
+x/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest
+xnormal
+xi386
+lSLF07#2@90"Link /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest317962496#317962496#0(0"0(0#0#0"8674853152#922"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator -F/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator -filelist /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/Objects-normal/i386/CMTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreMotion -o /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/CMTest0#
+
+CProcessInfoPlistFile /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/Info.plist CMTest-Info.plist
+s317962493.902646
+e317962493.907416
+r1
+xProcessInfoPlistFile
+x/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/Info.plist
+xCMTest-Info.plist
+lSLF07#2@25"Process CMTest-Info.plist317962493#317962493#0(0"0(0#0#57"/Users/shuichi/Documents/08_blog/CMTest/CMTest-Info.plist8672564352#479"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CMTest-Info.plist -genpkginfo /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app/Info.plist0#
+
+CProcessPCH /var/folders/0o/0oBJns2KF3KicOVOZ1e6i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CMTest_Prefix-bnmdatlzufptxyemhabicrkimvim/CMTest_Prefix.pch.gch CMTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317962494.426958
+e317962496.063803
+r1
+xProcessPCH
+x/var/folders/0o/0oBJns2KF3KicOVOZ1e6i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CMTest_Prefix-bnmdatlzufptxyemhabicrkimvim/CMTest_Prefix.pch.gch
+xCMTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile CMTest_Prefix.pch317962494#317962496#0(0"0(0#0#57"/Users/shuichi/Documents/08_blog/CMTest/CMTest_Prefix.pch8678314016#1797"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-generated-files.hmap -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-own-target-headers.hmap -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-all-target-headers.hmap -iquote /Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/CMTest-project-headers.hmap -F/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator -I/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/include -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/DerivedSources/i386 -I/Users/shuichi/Documents/08_blog/CMTest/build/CMTest.build/Debug-iphonesimulator/CMTest.build/DerivedSources -c /Users/shuichi/Documents/08_blog/CMTest/CMTest_Prefix.pch -o /var/folders/0o/0oBJns2KF3KicOVOZ1e6i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CMTest_Prefix-bnmdatlzufptxyemhabicrkimvim/CMTest_Prefix.pch.gch0#
+
+CTouch /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app
+s317962592.777275
+e317962592.779597
+r1
+xTouch
+x/Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app
+lSLF07#2@84"Touch /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app317962592#317962592#0(0"0(0#0#0"8678115744#279"    cd /Users/shuichi/Documents/08_blog/CMTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/shuichi/Documents/08_blog/CMTest/build/Debug-iphonesimulator/CMTest.app0#
+
